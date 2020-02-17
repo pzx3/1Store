@@ -1,0 +1,10 @@
+Package: me.nepeta.unsub
+Name: UnSub(A13)
+Depends: mobilesubstrate, ws.hbang.common (>= 13.3), applist, firmware (>= 9.0)
+Conflicts: co.vexation.nosubstitute, com.opa334.nosubstitute,Suuport(A13)by iiX20
+Version: 0.1.9
+Architecture: iphoneos-arm
+Description: Disable tweak injection (Substrate/Substitute) in certain apps.
+Maintainer: Nepeta
+Author: Nepeta
+Section: Tweaks
